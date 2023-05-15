@@ -220,12 +220,6 @@
         <span class="sr-only">Open actions menu</span>
       </button>
     </div>
-    <!-- <a
-      class="wave text-white px-6 py-3 absolute right-5 bottom-5 m-10 text-xl bg-indigo-500 rounded-3xl flex flex-row"
-      href="mailto:email@provider.com"
-      ><p>👋</p>
-      Contact Me</a
-    > -->
   </div>
 </div>
 
